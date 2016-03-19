@@ -8,12 +8,12 @@ Description: Employee class
 
 public class Employee {
 	//initialize in constructors
-	private String name;
-	private double salary;
+	//private String name;
+	//private double salary;
 	
 	//no argument constructor
 	public Employee(){
-
+		
 	}
 	
 	//constructor with name and salary

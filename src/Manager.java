@@ -7,7 +7,7 @@ Description: Manager class that extends employee class
 */
 
 public class Manager extends Employee{
-	private String department;
+	//private String department;
 	
 	//no argument constructor
 	public Manager(){
