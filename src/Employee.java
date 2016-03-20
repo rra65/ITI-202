@@ -7,6 +7,7 @@ Description: Employee class
 */
 
 public class Employee {
+	//instance variables have been commented out, they need to be added back in
 	//initialize in constructors
 	//private String name;
 	//private double salary;
