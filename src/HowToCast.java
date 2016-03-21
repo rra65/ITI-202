@@ -8,6 +8,7 @@ public class HowToCast {
 			test [i] = true;
 		}
 		test[0] = 1;
+		boolean getBoolean = test[1];
 	}
 
 }
