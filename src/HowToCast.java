@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class HowToCast {
-
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		Object [] test = new Object[5];
