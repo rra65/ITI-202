@@ -8,7 +8,10 @@ public class HowToCast {
 			test [i] = true;
 		}
 		test[0] = 1;
-		boolean getBoolean = test[1];
+		// this line would cause an issue boolean getBoolean = test[1];
+		//should read like this:
+		boolean getBoolean = (boolean) test[1];
+		System.out.println(getBoolean);
 	}
 
 }
