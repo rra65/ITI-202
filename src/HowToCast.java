@@ -11,7 +11,8 @@ public class HowToCast {
 		// this line would cause an issue boolean getBoolean = test[1];
 		//should read like this:
 		boolean getBoolean = (boolean) test[1];
-		System.out.println(getBoolean);
+		//a comparison that uses casting
+		if(getBoolean == (boolean) test[1]) System.out.println("They are both true!!!");
 	}
 
 }
