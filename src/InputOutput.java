@@ -1,3 +1,9 @@
+/*
+ * 
+ * Utilize this class as a basis for how to collect input from a file
+ * and write it back to another file.
+ * 
+ * */
 
 public class InputOutput {
 
